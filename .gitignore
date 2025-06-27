@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+venv/
+.Python
+db.sqlite3
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Git
+*.orig
+
+# Test coverage
+coverage/
+*.lcov
+
+# Build tools
+build/
+.cache/
+.temp/
+out/
